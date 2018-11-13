@@ -27,6 +27,10 @@
 #Move to where you want to delete something, and hit d$. The $ always represents the end of the line
 #If you want to delete the rest of the line but replace it with something, type c$
 
+#Press <SHIFT>-i to go the beginning of the line in INSERT mode
+#Press o to go to the next line in INSERT mode
+#Press <SHIFT>-o to go the live above in INSERT mode.
+
 #Want to freak out?
 #Before you do anything, know that pressing u undoes your last command
 #Press d, then <SHIFT>-g to delete everything from your cursor until the end of the file
