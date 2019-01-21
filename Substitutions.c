@@ -14,6 +14,7 @@ void printPlayer(char* player, int number) //Isn't printPlayer a great function?
 //The text after the first slash is what you want to change
 //The text after the second slash is what you want to replace it with
 //The g means replace every instance on a given line (not just the first one)
+//The c means "confirm"--it'll ask you in each case whether you actually want to replace the function name
 
 int main(void)
 {

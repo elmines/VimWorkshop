@@ -1,7 +1,7 @@
 
 for i in range(10):
 	if i % 2 == 0:
-                print("Aren't people who use tabs instead of spaces utterly loathsome.?")
+                print("Aren't people who use tabs instead of spaces utterly loathsome?")
 
         if i % 2 == 1:
 		print("I'd hate to be the sucker who has to fix this file's whitespace.")

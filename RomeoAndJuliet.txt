@@ -13,7 +13,7 @@
 #If you ever want to search everything above your cursor, use ? instead of /
 
 #Use the x key to delete individual characters
-#You can press 20x to delete 20 characters
+#You can press 5x to delete 5 characters
 
 #The d key can be used for more fancy deletes
 #Pressing d, then w deletes a word
@@ -28,8 +28,8 @@
 #If you want to delete the rest of the line but replace it with something, type c$
 
 #Press <SHIFT>-i to go the beginning of the line in INSERT mode
-#Press o to go to the next line in INSERT mode
-#Press <SHIFT>-o to go the live above in INSERT mode.
+#Press o to go to insert a new line, and go into INSERT mode
+#Press <SHIFT>-o to insert a line above, and go into INSERT mode.
 
 #Want to freak out?
 #Before you do anything, know that pressing u undoes your last command

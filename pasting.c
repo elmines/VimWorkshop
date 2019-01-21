@@ -22,8 +22,8 @@ int main(void)
 
 	for (int i = 0; i < 20; ++i)
 	{
-		printf("Deleting is the same thing as cutting in Vim!");
-		printf("In Vim, we don't copy--we yank.");
+		printf("Deleting is the same thing as cutting in Vim!\n");
+		printf("In Vim, we don't copy--we yank.\n");
 	}
 
 }
