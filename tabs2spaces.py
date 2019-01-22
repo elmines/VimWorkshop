@@ -6,7 +6,7 @@ for i in range(10):
         if i % 2 == 1:
 		print("I'd hate to be the sucker who has to fix this file's whitespace.")
 
-#In some spots I've used 4 spaces, and in other spots I've used a tab
+#In some spots I've used 8 spaces, and in other spots I've used a tab
 
 #If we want to change from tabs to spaces. . .
 #Type :%s/\t/        /gc
